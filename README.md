@@ -1,17 +1,12 @@
 ### Hi 👋, I'm Elvira Mazzola
 <div>
   <img src="https://github.com/elviramazzola/ElviraMazzola/assets/16701593/868fea31-f0a0-4b73-8c98-222d7db8a2f7" width="200"/>
-  </div>
+</div>
  
  - 🎓 **Computer Engineer** student @[UniCT](https://www.unict.it/)
  - 🌱 I’m currently learning algorithms and data structure
  - 🐧 Linux and Raspberry Pi enthusiast
  
- ### Soft Skills: 
- - Good communication skills
- - Patience
- - Discipline 
- - Friendliness
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -53,4 +48,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+ ### Soft Skills: 
+ - Good communication skills
+ - Patience
+ - Discipline 
+ - Friendliness
 -->
